@@ -1,0 +1,6 @@
+src/generated/**
+prisma/migrations/**
+.next/**
+node_modules/**
+*.js
+*.mjs
